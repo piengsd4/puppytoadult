@@ -1,0 +1,538 @@
+[
+  {
+    "id": "golden-retriever",
+    "slug": "golden-retriever",
+    "name": "Golden Retriever",
+    "group": "Sporting",
+    "size": "Large",
+    "coat": "Feathered double coat",
+    "origin": "Scotland",
+    "adultWeight": "55 to 75 lb",
+    "lifeExpectancy": "10 to 12 years",
+    "puppyWindow": "8 to 18 months",
+    "adultWindow": "2 to 3 years",
+    "summary": "Golden Retrievers go from light-coated, floppy puppies to athletic adults with a fuller feathered coat.",
+    "note": "A profile puppy shot helps show paw size and loose ears before the adult frame fills in.",
+    "traits": ["Friendly", "Steady", "Trainable"],
+    "colors": {
+      "puppy": ["#f9d7a6", "#e6a15a", "#7d4c29"],
+      "adult": ["#e4b56d", "#9d612f", "#53311e"]
+    },
+    "detailIntro": "Golden Retrievers change visibly through the first two years. The ears stay soft, the coat begins lighter, and the body depth fills in before the adult feathering fully arrives.",
+    "puppyLook": "Young Goldens often look all head, paws, and soft fluff.",
+    "adultLook": "Adults carry a deeper chest, longer feathering, and a calmer expression.",
+    "photoAdvice": [
+      "Use a side profile for the puppy photo so paw size and early proportions are easy to compare later.",
+      "Keep the adult shot at the same eye level and lens distance for a cleaner before-and-after pair.",
+      "Warm but neutral lighting helps coat color changes read clearly over time."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "Soft structure",
+        "description": "The body still reads compact and rounded, with a puppy coat that sits puffier than the final adult feathering."
+      },
+      {
+        "age": "4 to 10 months",
+        "title": "Leggy transition",
+        "description": "The frame lengthens quickly and the dog can look awkward for a while as paws, ears, and chest catch up at different speeds."
+      },
+      {
+        "age": "18 to 36 months",
+        "title": "Finished outline",
+        "description": "The chest deepens, feathering fills out, and the head shape settles into the mature Golden Retriever expression."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "1 to 2 hours daily",
+        "description": "Regular movement keeps this sporting breed balanced and helps the adult frame build evenly."
+      },
+      {
+        "label": "Grooming",
+        "value": "Weekly brushing",
+        "description": "Feathering develops more strongly with age, so coat maintenance matters more in adulthood."
+      },
+      {
+        "label": "Training",
+        "value": "Reward-based structure",
+        "description": "Goldens mature well when puppy enthusiasm is shaped into calm adult reliability."
+      },
+      {
+        "label": "Home life",
+        "value": "People-focused",
+        "description": "This breed usually thrives when the adult dog stays closely integrated with family routines."
+      }
+    ]
+  },
+  {
+    "id": "german-shepherd",
+    "slug": "german-shepherd",
+    "name": "German Shepherd",
+    "group": "Herding",
+    "size": "Large",
+    "coat": "Dense double coat",
+    "origin": "Germany",
+    "adultWeight": "50 to 90 lb",
+    "lifeExpectancy": "9 to 13 years",
+    "puppyWindow": "6 to 15 months",
+    "adultWindow": "2 to 3 years",
+    "summary": "The broad puppy face and low-set ears sharpen into the breed's upright silhouette and focused expression.",
+    "note": "Use a front-facing puppy image to capture the ear transition before the adult profile becomes more angular.",
+    "traits": ["Alert", "Loyal", "Confident"],
+    "colors": {
+      "puppy": ["#d6c2a3", "#8a6b47", "#3f3022"],
+      "adult": ["#a68761", "#473525", "#1f1a17"]
+    },
+    "detailIntro": "German Shepherds change from broad, soft-featured puppies into strongly defined adults with upright ears, heavier chest structure, and a much more disciplined silhouette.",
+    "puppyLook": "Puppies look softer, broader, and less finished through the ears and muzzle.",
+    "adultLook": "Adults read sharper through the head, topline, and alert stance.",
+    "photoAdvice": [
+      "Use a front or three-quarter puppy portrait to document the ear carriage transition clearly.",
+      "Keep the background simple so the dark saddle pattern and outline stay readable.",
+      "Try a standing adult pose to show how much more angular and deliberate the finished posture becomes."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 20 weeks",
+        "title": "Broad puppy frame",
+        "description": "The head is softer, the coat can look plush, and the ear set may shift repeatedly during growth."
+      },
+      {
+        "age": "5 to 12 months",
+        "title": "Ear and limb transition",
+        "description": "The dog can look rangy as the limbs lengthen and the ears settle into their mature upright position."
+      },
+      {
+        "age": "18 to 36 months",
+        "title": "Adult focus",
+        "description": "The chest fills out, muscle develops, and the face takes on the more serious expression associated with the breed."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "High daily workload",
+        "description": "Mental and physical tasks are both important once the dog moves past the puppy phase."
+      },
+      {
+        "label": "Grooming",
+        "value": "Frequent shedding care",
+        "description": "The adult double coat drops heavily during seasonal changes."
+      },
+      {
+        "label": "Training",
+        "value": "Structured and consistent",
+        "description": "Good guidance matters early so drive matures into reliability rather than reactivity."
+      },
+      {
+        "label": "Home life",
+        "value": "Needs engagement",
+        "description": "Adult Shepherds do best when they have a role, routine, and close handler relationship."
+      }
+    ]
+  },
+  {
+    "id": "french-bulldog",
+    "slug": "french-bulldog",
+    "name": "French Bulldog",
+    "group": "Non-Sporting",
+    "size": "Small",
+    "coat": "Short smooth coat",
+    "origin": "France",
+    "adultWeight": "16 to 28 lb",
+    "lifeExpectancy": "10 to 12 years",
+    "puppyWindow": "4 to 12 months",
+    "adultWindow": "12 to 18 months",
+    "summary": "Frenchies keep their signature ears, but their compact chest, jaw, and expression become far more defined as adults.",
+    "note": "A close crop works well here because most of the visual change is in chest width, jaw shape, and stance.",
+    "traits": ["Playful", "Adaptable", "Sociable"],
+    "colors": {
+      "puppy": ["#f7d2be", "#d98057", "#7f4934"],
+      "adult": ["#e8b39b", "#9d5f43", "#5a3426"]
+    },
+    "detailIntro": "French Bulldogs do not transform through height as dramatically as larger breeds, but the body depth, jaw shape, and mature stance change the look more than many owners expect.",
+    "puppyLook": "The puppy face reads rounder, lighter, and more toy-like.",
+    "adultLook": "Adults look denser through the chest and stronger through the jaw and shoulders.",
+    "photoAdvice": [
+      "Keep both puppy and adult shots fairly tight because the facial structure carries most of the story.",
+      "Use the same seated or standing pose to make chest width easier to compare.",
+      "Avoid cluttered backgrounds that compete with the compact outline."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "Compact and rounded",
+        "description": "The puppy body is short, the face is extremely round, and the ears still dominate the overall look."
+      },
+      {
+        "age": "4 to 9 months",
+        "title": "Chest broadening",
+        "description": "The ribcage and shoulders become more obvious, giving the breed a sturdier shape."
+      },
+      {
+        "age": "12 to 18 months",
+        "title": "Mature expression",
+        "description": "The head, jaw, and stance settle, producing the adult Frenchie's compact but solid presence."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Moderate and controlled",
+        "description": "Short, steady activity usually suits the breed better than sustained intensity."
+      },
+      {
+        "label": "Grooming",
+        "value": "Low coat upkeep",
+        "description": "The short coat is simple, but skin folds and ears need routine attention."
+      },
+      {
+        "label": "Training",
+        "value": "Short sessions",
+        "description": "Consistency works better than repetition once puppy stubbornness appears."
+      },
+      {
+        "label": "Home life",
+        "value": "Indoor companion",
+        "description": "This breed usually thrives in close-contact household environments."
+      }
+    ]
+  },
+  {
+    "id": "siberian-husky",
+    "slug": "siberian-husky",
+    "name": "Siberian Husky",
+    "group": "Working",
+    "size": "Medium",
+    "coat": "Plush double coat",
+    "origin": "Siberia",
+    "adultWeight": "35 to 60 lb",
+    "lifeExpectancy": "12 to 14 years",
+    "puppyWindow": "6 to 16 months",
+    "adultWindow": "18 to 24 months",
+    "summary": "Husky puppies start rounded and woolly, then lengthen into a leaner adult frame with a crisp facial mask.",
+    "note": "Keep the background clean so the facial mask and eye shape stay readable between both stages.",
+    "traits": ["Energetic", "Vocal", "Independent"],
+    "colors": {
+      "puppy": ["#dce3ef", "#7a93be", "#3d557d"],
+      "adult": ["#c8d5e8", "#54719e", "#243651"]
+    },
+    "detailIntro": "Siberian Huskies start as plush, rounded puppies and then tighten into a lean working outline with much crisper facial markings and a more athletic line through the body.",
+    "puppyLook": "Young Huskies look woollier, wider-eyed, and softer through the muzzle.",
+    "adultLook": "Adults read lighter on their feet with a cleaner mask and more purposeful stance.",
+    "photoAdvice": [
+      "Use uncluttered backgrounds so the facial mask remains the strongest visual feature.",
+      "Match coat season when possible because winter fluff can exaggerate the adult volume.",
+      "A standing profile helps show how much leaner the adult proportions become."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "Rounded fluff",
+        "description": "The puppy coat is thick and soft, often making the body look shorter and rounder than it really is."
+      },
+      {
+        "age": "5 to 12 months",
+        "title": "Lengthening frame",
+        "description": "Legs and body length become more apparent as the puppy fluff begins to settle."
+      },
+      {
+        "age": "18 to 24 months",
+        "title": "Lean adult finish",
+        "description": "The adult outline becomes much cleaner, with a crisp mask, balanced tail carriage, and athletic movement."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Very high",
+        "description": "This breed stays more manageable when adult energy has a daily outlet."
+      },
+      {
+        "label": "Grooming",
+        "value": "Seasonal shedding",
+        "description": "The plush coat needs regular brushing, especially during heavy adult shed cycles."
+      },
+      {
+        "label": "Training",
+        "value": "Independent mindset",
+        "description": "Early consistency matters because the adult dog can be clever and selective."
+      },
+      {
+        "label": "Home life",
+        "value": "Needs space and routine",
+        "description": "A bored Husky often invents its own entertainment."
+      }
+    ]
+  },
+  {
+    "id": "dachshund",
+    "slug": "dachshund",
+    "name": "Dachshund",
+    "group": "Hound",
+    "size": "Small",
+    "coat": "Smooth short coat",
+    "origin": "Germany",
+    "adultWeight": "16 to 32 lb",
+    "lifeExpectancy": "12 to 16 years",
+    "puppyWindow": "5 to 10 months",
+    "adultWindow": "12 to 18 months",
+    "summary": "The puppy version already hints at the long body, but the adult dog shows a more balanced chest and stronger topline.",
+    "note": "Side-on photography is ideal because this breed's growth story is mostly about body proportions.",
+    "traits": ["Curious", "Bold", "Comical"],
+    "colors": {
+      "puppy": ["#f0b98b", "#a75b30", "#5d2f19"],
+      "adult": ["#de9561", "#7e4324", "#402112"]
+    },
+    "detailIntro": "Dachshunds already show the long-backed silhouette as puppies, but the adult version carries noticeably better chest depth, body balance, and confidence through the stance.",
+    "puppyLook": "The long body is visible early, but the chest and topline are still delicate.",
+    "adultLook": "Adults look more grounded through the ribcage, shoulders, and overall stance.",
+    "photoAdvice": [
+      "Use a clear side profile because this breed's story is mainly about proportion, not head shape.",
+      "Keep the dog on level ground so the topline does not get distorted.",
+      "Match posture in both stages for a cleaner comparison."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 14 weeks",
+        "title": "Early silhouette",
+        "description": "Even as a tiny puppy, the body proportion already hints strongly at the adult breed outline."
+      },
+      {
+        "age": "4 to 8 months",
+        "title": "Body length settles",
+        "description": "The chest, shoulders, and neck start to balance out what initially looks like an exaggerated puppy frame."
+      },
+      {
+        "age": "12 to 18 months",
+        "title": "Finished ground-hugging stance",
+        "description": "The adult dog looks sturdier and more deliberate, with a stronger chest and more stable topline."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Steady but measured",
+        "description": "Regular movement matters, but the breed benefits from protecting the back during growth and adulthood."
+      },
+      {
+        "label": "Grooming",
+        "value": "Light for smooth coats",
+        "description": "Coat care is simple, though other varieties need more frequent attention."
+      },
+      {
+        "label": "Training",
+        "value": "Patient consistency",
+        "description": "The bold personality matures best with calm repetition and clear boundaries."
+      },
+      {
+        "label": "Home life",
+        "value": "Lively indoors",
+        "description": "Dachshunds are small but opinionated, and the adult dog tends to stay very engaged with household activity."
+      }
+    ]
+  },
+  {
+    "id": "border-collie",
+    "slug": "border-collie",
+    "name": "Border Collie",
+    "group": "Herding",
+    "size": "Medium",
+    "coat": "Medium rough coat",
+    "origin": "United Kingdom",
+    "adultWeight": "30 to 55 lb",
+    "lifeExpectancy": "12 to 15 years",
+    "puppyWindow": "6 to 14 months",
+    "adultWindow": "15 to 24 months",
+    "summary": "The fluffy puppy coat and oversized paws settle into a more aerodynamic adult outline built for movement.",
+    "note": "Action-oriented adult images work especially well if the puppy image is calmer and closer framed.",
+    "traits": ["Intense", "Smart", "Driven"],
+    "colors": {
+      "puppy": ["#dce5df", "#70897c", "#243831"],
+      "adult": ["#bccdc3", "#526a5e", "#18231f"]
+    },
+    "detailIntro": "Border Collies often begin as fluffy, soft-coated puppies and then mature into an athletic, fast-reading adult body built for movement and concentration.",
+    "puppyLook": "Puppies look softer and looser, with oversized paws and a fluffier outline.",
+    "adultLook": "Adults appear cleaner through the chest, neck, and movement line, even with a rough coat.",
+    "photoAdvice": [
+      "A calm puppy portrait pairs well with a more dynamic adult stance to show the breed's working maturity.",
+      "Watch the coat direction in outdoor wind because it can distort the body line.",
+      "Use enough frame width to show posture, not just head detail."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "Soft-coated puppy",
+        "description": "The head looks rounder, the paws look oversized, and the posture still feels loose and playful."
+      },
+      {
+        "age": "5 to 10 months",
+        "title": "Adolescent stretch",
+        "description": "The frame lengthens and the dog begins to look more leggy and agile."
+      },
+      {
+        "age": "15 to 24 months",
+        "title": "Working outline",
+        "description": "The adult dog appears more aerodynamic, focused, and balanced through both head and body."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Very high and purposeful",
+        "description": "Adult Border Collies usually need both movement and problem-solving work."
+      },
+      {
+        "label": "Grooming",
+        "value": "Routine brushing",
+        "description": "The rough coat stays manageable with consistent upkeep."
+      },
+      {
+        "label": "Training",
+        "value": "Advanced mental work",
+        "description": "This breed matures best when intelligence is directed early and often."
+      },
+      {
+        "label": "Home life",
+        "value": "Needs a job",
+        "description": "A settled adult Collie still tends to need structure and engagement every day."
+      }
+    ]
+  },
+  {
+    "id": "shiba-inu",
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "group": "Non-Sporting",
+    "size": "Small",
+    "coat": "Dense plush coat",
+    "origin": "Japan",
+    "adultWeight": "17 to 23 lb",
+    "lifeExpectancy": "13 to 16 years",
+    "puppyWindow": "5 to 11 months",
+    "adultWindow": "12 to 18 months",
+    "summary": "Shiba puppies have a teddy-bear roundness that tightens into the breed's fox-like adult face and curled posture.",
+    "note": "A consistent seated pose highlights the change from rounded puppy cheeks to the cleaner adult head shape.",
+    "traits": ["Bright", "Independent", "Clean"],
+    "colors": {
+      "puppy": ["#f3c699", "#c56e39", "#6b3819"],
+      "adult": ["#e2aa72", "#98562e", "#4e2814"]
+    },
+    "detailIntro": "Shiba Inus often change from plush, teddy-like puppies into adults with a tighter fox-like face, more self-possessed posture, and a very characteristic curled tail carriage.",
+    "puppyLook": "The puppy face is rounder, fuller, and almost stuffed-animal soft.",
+    "adultLook": "Adults carry a cleaner wedge through the head and a more composed, upright posture.",
+    "photoAdvice": [
+      "Keep both photos in a similar seated pose to show how the head shape refines over time.",
+      "Use simple backgrounds so the curled tail and body outline stay visible.",
+      "Consistent framing helps the shift from puppy roundness to adult sharpness stand out."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "Round puppy features",
+        "description": "The coat looks especially plush and the face feels much softer than the adult version."
+      },
+      {
+        "age": "4 to 9 months",
+        "title": "Head shape refines",
+        "description": "The muzzle and eye expression begin to sharpen while the puppy coat remains full."
+      },
+      {
+        "age": "12 to 18 months",
+        "title": "Fox-like finish",
+        "description": "The adult head, posture, and tail set define the breed much more clearly than in puppyhood."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Moderate with routine",
+        "description": "Shibas often do best with predictable activity rather than chaotic overhandling."
+      },
+      {
+        "label": "Grooming",
+        "value": "Heavy seasonal shed",
+        "description": "The dense coat drops noticeably when the seasons turn."
+      },
+      {
+        "label": "Training",
+        "value": "Independent temperament",
+        "description": "Short, clear training helps puppy stubbornness mature into manageable adult confidence."
+      },
+      {
+        "label": "Home life",
+        "value": "Clean and self-contained",
+        "description": "Many adults prefer order, space, and a steady routine."
+      }
+    ]
+  },
+  {
+    "id": "great-dane",
+    "slug": "great-dane",
+    "name": "Great Dane",
+    "group": "Working",
+    "size": "Giant",
+    "coat": "Short sleek coat",
+    "origin": "Germany",
+    "adultWeight": "110 to 175 lb",
+    "lifeExpectancy": "7 to 10 years",
+    "puppyWindow": "6 to 18 months",
+    "adultWindow": "2 to 3 years",
+    "summary": "Great Dane puppies often look all legs, then mature into a tall, clean-lined adult with far more depth and presence.",
+    "note": "Use a taller crop so the jump in height and leg length reads clearly from one stage to the next.",
+    "traits": ["Gentle", "Calm", "Majestic"],
+    "colors": {
+      "puppy": ["#dcd3ca", "#857362", "#463930"],
+      "adult": ["#cbbdaf", "#655546", "#2f2721"]
+    },
+    "detailIntro": "Great Danes may be the clearest example of dramatic growth. Puppies often look all legs and uncertainty, while adults become massive, balanced, and remarkably composed.",
+    "puppyLook": "Puppies can seem oversized through the limbs and under-finished through the chest.",
+    "adultLook": "Adults carry immense height, depth, and elegance once the frame catches up.",
+    "photoAdvice": [
+      "Use a taller framing to make the jump in height visible instead of cropping too tightly.",
+      "Choose the same standing angle in both photos because proportion is the main story here.",
+      "Leave negative space above the adult dog so the final scale has room to read."
+    ],
+    "growthTimeline": [
+      {
+        "age": "8 to 16 weeks",
+        "title": "All legs",
+        "description": "Early puppies often look oversized through the limbs, with a frame that has not yet balanced out."
+      },
+      {
+        "age": "6 to 14 months",
+        "title": "Rapid vertical growth",
+        "description": "Height arrives quickly and the body can look awkward as depth and substance catch up."
+      },
+      {
+        "age": "24 to 36 months",
+        "title": "Mass with balance",
+        "description": "The adult Dane becomes far more imposing, with added chest depth, topline stability, and a composed stance."
+      }
+    ],
+    "careProfile": [
+      {
+        "label": "Exercise",
+        "value": "Moderate and steady",
+        "description": "Controlled movement matters more than frantic activity while the giant frame matures."
+      },
+      {
+        "label": "Grooming",
+        "value": "Low coat care",
+        "description": "The short coat is simple, but the breed's sheer size changes handling needs."
+      },
+      {
+        "label": "Training",
+        "value": "Early manners matter",
+        "description": "A giant adult dog needs polished behavior long before full size arrives."
+      },
+      {
+        "label": "Home life",
+        "value": "Large-space logistics",
+        "description": "Even gentle adults take up real room in the home and in daily routines."
+      }
+    ]
+  }
+]
